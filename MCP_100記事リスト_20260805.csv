@@ -1,0 +1,101 @@
+No,クラスタ,主キーワード,サブキーワード,記事タイトル案,検索意図,想定読者,記事タイプ,推定Vol帯,競合難易度,CV貢献,目安文字数,フェーズ,内部リンク先No,競合参考URL
+1,A_基礎,MCPとは,"model context protocol,MCP 意味,MCP AI","【2026年最新】MCPとは？Model Context Protocolの仕組み・できること・活用事例を図解でわかりやすく解説【ピラー】",Know,情報収集中の全読者,ピラー解説,A,高,中,12000,1,"3,5,7,13,85",https://japan-ai.co.jp/media/6154/
+2,A_基礎,model context protocol とは,"MCP 正式名称,MCP わかりやすく","Model Context Protocolとは何か？非エンジニアでも5分でわかる「AIの共通コンセント」入門",Know,非エンジニア/管理職,解説,B,中,低,6000,1,"1,7",https://hblab.co.jp/blog/what-is-mcp/
+3,A_基礎,MCPサーバーとは,"MCPサーバー 意味,MCPサーバー 役割","MCPサーバーとは？図解でわかる役割・3つの機能（Tools/Resources/Prompts）と使いどころ",Know,情シス/開発/企画,解説,A,高,中,8000,1,"1,13,20",https://aismiley.co.jp/ai_news/mcp-server-how-to/
+4,A_基礎,MCP 仕組み,"MCP アーキテクチャ,MCP JSON-RPC","MCPの仕組みを徹底解剖：ホスト・クライアント・サーバーの3層構造とJSON-RPCの動き",Know,開発/情シス,解説,B,中,低,7000,2,"1,3,77",https://magicpod.com/blog/what-is-mcp-server/
+5,A_基礎,MCP できること,"MCP 何ができる,MCP 機能","MCPで何ができる？できること20／できないこと7を実例つきで整理",Know,検討初期の担当者,解説,B,中,中,7000,1,"7,12,95",https://weel.co.jp/media/mcp-case/
+6,A_基礎,MCP メリット デメリット,"MCP 課題,MCP 注意点","MCPのメリット・デメリット総まとめ｜導入前に知るべき7つの落とし穴",Know,決裁者/企画,解説,B,中,中,6500,1,"85,94,95",https://funnel-ai.jp/media/mcp-toha/
+7,A_基礎,MCP 活用事例,"MCP 導入事例,MCP 事例,MCP 業務効率化 事例","MCP活用事例50選【業務別・業種別】導入効果を工数・金額で全部公開【ピラー】",Know,決裁者/現場責任者,ピラー事例集,A,高,高,15000,1,"31,38,51,63,96",https://weel.co.jp/media/mcp-case/
+8,A_基礎,MCP 用語集,"MCP Tools Resources Prompts,MCP Sampling","MCP用語集30｜Tools・Resources・Prompts・Sampling・Elicitationを一枚で理解",Know,開発/情シス,用語集,C,低,低,5000,3,"1,4,79",https://www.sysdig.com/learn-cloud-native/what-is-mcp-model-context-protocol
+9,A_基礎,MCP 登場背景,"MCP 歴史,MCP Anthropic 2024","なぜMCPが業界標準になったのか？2024年11月の公開から2026年までの歴史と勢力図",Know,企画/決裁者,コラム,C,低,低,6000,3,"1,97,98",https://note.com/miraikyoso/n/nd112797b9d1e
+10,A_基礎,MCP 対応 AIツール,"MCP 対応 Claude ChatGPT Gemini,MCP クライアント 一覧","MCP対応AIツール一覧2026｜Claude・ChatGPT・Gemini・Copilot・Cursorの対応状況比較",Know/Commercial,ツール選定担当,比較一覧,B,中,中,8000,1,"21,22,23,24,25",https://squadbeyond.com/blog/mcp_tools/
+11,A_基礎,MCP 無料 試す,"MCP 無料,MCP 試してみる","MCPを無料で試す最小構成｜インストール0円・15分で動かす3ステップ",Do,個人/検証担当,ハウツー,B,低,中,5500,2,"21,29,30",https://biz.bytech.jp/blog/about-mcp/
+12,A_基礎,MCP 誤解,"MCP 意味ない,MCP 過大評価","MCPのよくある誤解7つ｜「MCPを入れれば自動化できる」は本当か",Know,決裁者/企画,オピニオン,C,低,中,5000,3,"5,95,99",https://qiita.com/ksonoda/items/1c681a563a95a93975ff
+13,B_選定,MCPサーバー おすすめ,"MCPサーバー 一覧,MCPサーバー 便利,MCPサーバー 厳選","MCPサーバーおすすめ40選【2026年版】全て実際に接続して検証・用途別に評価【ピラー】",Commercial,導入担当者,ピラー比較,A,高,高,14000,1,"14,15,16,63,70",https://miralab.co.jp/media/mcp_recommended_servers_ai_agents/
+14,B_選定,MCPサーバー 選び方,"MCPサーバー 比較 基準,MCPサーバー 判断","MCPサーバーの選び方｜失敗しない7つの判断基準とチェックシート",Commercial,導入担当者,選定ガイド,B,中,高,7000,1,"13,85,88",https://ai.giftx.co.jp/blog/mcp-server-recommended-list/
+15,B_選定,公式 MCPサーバー,"MCP リファレンス実装,MCP 公式 一覧","公式MCPサーバー（リファレンス実装）まとめ｜まず入れるべき定番7本",Commercial,導入担当者,一覧,B,中,中,6000,2,"13,76,72",https://ai.giftx.co.jp/blog/mcp-server-recommended-list/
+16,B_選定,業務効率化 MCPサーバー,"部署別 MCPサーバー,社内 MCPサーバー","業務効率化に効くMCPサーバー20選｜部署別に「まずこれ」を指定",Commercial,各部門責任者,一覧,B,中,高,9000,1,"31,38,41,43",https://blog.s-style.co.jp/2026/01/15288/
+17,B_選定,マーケティング MCPサーバー,"マーケ MCP ツール,SEO MCPサーバー","マーケター向けMCPサーバー12選｜SEO・広告・SNS・分析の全領域をカバー",Commercial,マーケ担当,一覧,B,中,高,9000,1,"31,32,33,63",https://squadbeyond.com/blog/mcp_tools/
+18,B_選定,国産 MCPサーバー,"日本 SaaS MCP,kintone freee MCP","日本製・国内SaaS対応MCPサーバーまとめ｜kintone・freee・Sansan・楽楽精算ほか",Commercial,国内企業の情シス,一覧,C,低,高,7000,2,"73,43,74",https://jp.cdata.com/blog/kintone-mcp-server-overview
+19,B_選定,MCP レジストリ,"MCP 探し方,Smithery MCP","MCPサーバーの探し方｜公式Registry・Smitheryの使い方と安全な見極め方",Do,導入担当者,ハウツー,C,低,中,5500,2,"13,85,88",https://www.homula.jp/blog/mcp-tools-catalog
+20,B_選定,リモートMCP ローカルMCP 違い,"MCP リモート接続,MCP ローカル実行","リモートMCPとローカルMCPの違い｜どちらを選ぶべきかフローチャートで判断",Know/Commercial,情シス/開発,比較,B,中,中,6000,2,"3,82,87",https://www.nilto.com/ja/knowledge/posts/claude-mcp/
+21,C_導入,Claude MCP 設定方法,"Claude Desktop MCP,claude_desktop_config.json","Claude DesktopのMCP設定方法｜スクショ36枚で迷わない完全手順【Windows/Mac対応】",Do,はじめて触る担当者,ハウツー,A,中,中,8000,1,"27,28,29,30",https://snowsystem.net/ai/claude-desktop-mcp-server-setup/
+22,C_導入,Claude Code MCP 設定,"Claude Code MCP 連携,claude mcp add","Claude CodeでMCPを設定する方法｜スコープ設計・チーム共有・実務ワークフロー",Do,開発/情シス,ハウツー,B,中,中,8000,1,"21,46,72",https://qiita.com/nak1104/items/392a0f5aa4c78566d99b
+23,C_導入,ChatGPT MCP 使い方,"ChatGPT コネクタ,ChatGPT MCP 設定","ChatGPTでMCPを使う方法2026｜コネクタ／Appsの設定手順と制限事項",Do,ChatGPT利用企業,ハウツー,A,中,中,7500,1,"10,21,63",https://squadbeyond.com/blog/mcp_tools/
+24,C_導入,Gemini CLI MCP,"Gemini MCP 設定,Gemini CLI 連携","Gemini CLIでMCPを設定・接続する方法｜Google系ツールと繋ぐ最短ルート",Do,Google Workspace利用企業,ハウツー,B,低,中,6500,2,"10,66,67",https://squadbeyond.com/blog/mcp_tools/
+25,C_導入,Cursor MCP 設定,"Cursor MCP おすすめ","Cursor MCP設定ガイド｜開発効率が変わる推奨サーバー構成つき",Do,開発者,ハウツー,B,中,低,6500,2,"22,72,75",https://zenn.dev/zaki_yama/articles/mcp-server-getting-started
+26,C_導入,VS Code MCP 設定,"GitHub Copilot MCP,copilot mcp 設定","VS Code／GitHub CopilotのMCP設定手順｜社内標準化のための設定テンプレ配布",Do,開発チーム,ハウツー,B,中,中,6500,2,"22,29,72",https://qiita.com/AppTime-wada/items/492acc8edba2d3cf9ff5
+27,C_導入,Windows MCP 環境構築,"MCP Node.js インストール,MCP ARM64","Windows版MCP環境構築の完全手順｜Node.js・uv・ARM64版の落とし穴を回避",Do,はじめて触る担当者,ハウツー,B,低,中,7000,1,"21,29,30",https://note.com/yaoyoroztech/n/n4313550cf0d8
+28,C_導入,Mac MCP 環境構築,"MCP Homebrew,MCP パス 通らない","Mac版MCP環境構築の完全手順｜Homebrew・パス問題・権限許可までまとめて解決",Do,はじめて触る担当者,ハウツー,B,低,中,6500,2,"21,29,30",https://zenn.dev/rescuenow/articles/2bd9d3a7bca510
+29,C_導入,MCP 設定ファイル 書き方,"mcp.json 書き方,MCP 設定例","MCP設定ファイル（json）の書き方チートシート｜コピペで使える設定例30本",Do,導入担当者,リファレンス,B,低,中,7000,1,"21,22,30",https://qiita.com/nak1104/items/392a0f5aa4c78566d99b
+30,C_導入,MCP 動かない,"MCP つながらない,MCP エラー,MCP 認識されない","MCPが動かない・つながらない時の対処法12選｜エラーメッセージ別診断フロー",Do,つまずいた担当者,トラブル解決,B,低,高,9000,1,"21,27,29,96",https://engineer-kichizitsu.net/entry/20260409/1775732400
+31,D_業務別,MCP マーケティング 活用,"マーケティング AI 自動化 MCP","マーケティング業務のMCP活用事例15選｜週次レポート4時間→15分の作り方【クラスタピラー】",Know/Commercial,マーケ責任者,クラスタピラー,B,中,高,12000,1,"32,33,34,35,17",https://mar-tech.media/mcp-marketing-effective-task/
+32,D_業務別,SEO MCP 活用,"SEO 自動化 MCP,検索順位 AI 分析","SEOのMCP活用事例｜Search Console×GA4×順位計測を自動連携する実装レシピ",Know/Do,SEO担当,事例＋実装,B,中,高,9000,1,"63,64,34,31",https://bunkyudo.co.jp/mcp-searchconsole/
+33,D_業務別,広告運用 MCP,"リスティング 自動化 AI,Google Ads AI レポート","広告運用のMCP活用事例｜Google Ads×Meta広告のレポート・異常検知を自動化",Know/Do,広告運用者,事例＋実装,B,中,高,9000,1,"65,31,34",https://ahrefs.com/blog/mcp-use-cases/
+34,D_業務別,競合分析 自動化 MCP,"SERP 監視 自動化,競合 クリエイティブ 収集","競合分析をMCPで自動化｜上位10サイトのSERP・LP・クリエイティブ変化を毎日Slack通知",Do,マーケ担当,実装レシピ,B,中,高,8000,1,"32,33,71",https://mar-tech.media/mcp-marketing-effective-task/
+35,D_業務別,記事作成 AI 自動化 MCP,"コンテンツ量産 AI,SEO記事 自動生成 ワークフロー","記事コンテンツをMCPで量産する実践ワークフロー｜KW調査→構成→執筆→入稿まで一気通貫",Do,オウンドメディア運営,実装レシピ,B,中,高,11000,1,"32,64,31",https://ahrefs.com/blog/mcp-use-cases/
+36,D_業務別,SNS運用 MCP,"SNS 分析 自動化 AI","SNS運用のMCP活用事例｜投稿案生成・反応分析・レポートを1本のプロンプトで",Know/Do,SNS担当,事例,C,低,中,7000,2,"31,34",https://www.marketing-office.jp/articles/mcp-ai-marketing-overview/
+37,D_業務別,LPO CRO MCP,"LP改善 AI,CVR改善 自動分析","LP改善（CRO）のMCP活用事例｜ヒートマップ・GA4・広告データを突き合わせて改善案を出す",Know/Do,Web担当,事例,C,低,高,8000,2,"63,33,31",https://www.jicoo.com/magazine/blog/google-analytics-mcp-usecases-benefits
+38,D_業務別,営業 AI 活用 MCP,"提案書 自動作成 AI,商談準備 AI","営業のMCP活用事例｜商談準備・提案書作成をCRM連携で自動化（30分→5分）",Know,営業責任者,事例,B,中,高,9000,1,"74,39,7",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+39,D_業務別,インサイドセールス MCP,"架電リスト 自動作成 AI","インサイドセールスのMCP活用事例｜リスト作成・スコアリング・架電メモ整理の自動化",Know,IS責任者,事例,C,低,高,7000,2,"38,74",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+40,D_業務別,カスタマーサポート AI MCP,"問い合わせ対応 自動化,FAQ AI 検索","カスタマーサポートのMCP活用事例｜FAQ横断検索と一次回答ドラフト生成",Know,CS責任者,事例,B,中,高,8500,1,"50,70,7",https://japan-ai.co.jp/media/6154/
+41,D_業務別,人事 採用 AI MCP,"求人票 AI 作成,オンボーディング 自動化","人事・採用のMCP活用事例｜求人票作成・スカウト文・面談記録整理・オンボーディング自動化",Know,人事責任者,事例,B,中,高,8500,2,"42,50,7",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+42,D_業務別,総務 労務 AI MCP,"社内規程 検索 AI,申請処理 自動化","総務・労務のMCP活用事例｜申請処理・規程検索・問い合わせ対応を軽くする",Know,総務担当,事例,C,低,中,6500,3,"41,50,45",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+43,D_業務別,経理 請求書 AI MCP,"freee AI 連携,マネーフォワード AI","経理のMCP活用事例｜freee・マネーフォワード連携で請求書処理と月次を短縮",Know,経理責任者,事例,B,中,高,8500,2,"18,44,7",https://ai-revolution.co.jp/media/claude-code-mcp-integration/
+44,D_業務別,経営管理 KPI レポート AI,"月次report 自動化,ダッシュボード AI","経営管理のMCP活用事例｜KPIダッシュボードと月次レポートの自動生成",Know,経営企画,事例,C,低,高,8000,2,"48,63,43",https://www.jicoo.com/magazine/blog/google-analytics-mcp-usecases-benefits
+45,D_業務別,情シス ヘルプデスク AI MCP,"社内問い合わせ 自動対応,アカウント棚卸し","情シス・ヘルプデスクのMCP活用事例｜社内問い合わせ一次対応とアカウント棚卸し",Know,情シス,事例,C,低,高,7500,2,"50,87,42",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+46,D_業務別,開発 効率化 MCP,"Claude Code 開発フロー,Issue PR 自動化","開発チームのMCP活用事例｜Issue取得→実装→PR→Notion更新→Slack通知の全自動フロー",Know/Do,開発責任者,事例＋実装,B,中,中,9000,1,"72,70,71,22",https://qiita.com/hikariclaude01/items/437c363cc90e98396e1a
+47,D_業務別,テスト 自動化 MCP,"E2Eテスト AI 生成,QA 自動化 AI","QA・テスト自動化のMCP活用事例｜E2Eテスト生成と不具合レポート起票の自動化",Know/Do,QA担当,事例,C,低,中,7000,3,"46,72,84",https://magicpod.com/blog/what-is-mcp-server/
+48,D_業務別,データ分析 BI MCP,"BigQuery AI 自然言語,Looker MCP","データ分析・BIのMCP活用事例｜BigQuery／Lookerに自然言語で問い合わせる基盤の作り方",Know/Do,データ担当,事例＋実装,B,中,高,9000,2,"63,44,80",https://weel.co.jp/media/mcp-case/
+49,D_業務別,議事録 自動化 MCP,"会議 準備 AI,議事録 AI Notion","会議運営のMCP活用事例｜カレンダー・議事録・タスク登録を会議終了と同時に完了させる",Know/Do,全部門,事例,B,中,中,7500,2,"69,70,71",https://weel.co.jp/media/mcp-case/
+50,D_業務別,社内 ナレッジ検索 AI MCP,"社内文書 検索 AI,Confluence Notion 横断","社内ナレッジ検索のMCP活用事例｜Notion・Confluence・Driveを横断してFAQ正答率を上げる",Know,情シス/CS,事例,B,中,高,9000,1,"70,67,40",https://japan-ai.co.jp/media/6154/
+51,E_業種別,製造業 AI 活用 MCP,"製造 DX AI,生産管理 AI 連携","製造業のMCP活用事例｜生産日報・在庫・不良分析をAIから直接扱う",Know,製造業の管理者,業種別事例,C,低,高,8000,2,"7,48,80",https://peaceflat.com/2026/02/27/
+52,E_業種別,小売 EC AI 活用 MCP,"EC 業務効率化 AI,受注 在庫 AI","小売・ECのMCP活用事例｜受注・在庫・レビュー分析と商品ページ量産",Know,EC事業者,業種別事例,C,低,高,8000,2,"7,35,52",https://seisei-ai.jp/posts/mcp-use-cases-examples
+53,E_業種別,不動産 AI 活用 MCP,"不動産 業務効率化 AI,物件紹介文 AI","不動産業のMCP活用事例｜物件情報整理・反響対応・物件紹介文の自動生成",Know,不動産会社,業種別事例,C,低,高,7500,2,"7,38,73",https://seisei-ai.jp/posts/mcp-use-cases-examples
+54,E_業種別,医療 クリニック AI 活用,"クリニック 業務効率化 AI,医療 AI 個人情報","医療・クリニックのMCP活用事例｜予約・問い合わせ・院内文書整理（個人情報の扱い方つき）",Know,医療機関,業種別事例,C,低,高,8000,3,"89,87,7",https://seisei-ai.jp/posts/mcp-use-cases-examples
+55,E_業種別,介護 福祉 AI 活用,"介護記録 AI,シフト作成 AI","介護・福祉事業のMCP活用事例｜記録作成・シフト・請求業務の負担を下げる",Know,介護事業者,業種別事例,C,低,高,7500,3,"7,43,89",https://seisei-ai.jp/posts/mcp-use-cases-examples
+56,E_業種別,建設 工務店 AI 活用,"建設 DX AI,見積 自動作成 AI","建設・工務店のMCP活用事例｜見積・工程・写真台帳・報告書の作成を短縮",Know,建設会社,業種別事例,C,低,高,7500,3,"7,73,76",https://peaceflat.com/2026/02/27/
+57,E_業種別,税理士 会計事務所 AI 活用,"会計事務所 効率化 AI,士業 AI 活用","税理士・会計事務所のMCP活用事例｜資料回収・仕訳確認・顧客レポートの自動化",Know,士業事務所,業種別事例,C,低,高,8000,2,"43,18,89",https://japan-ai.co.jp/media/6154/
+58,E_業種別,法律事務所 AI 活用,"リーガル AI 検索,弁護士 業務効率化 AI","法律事務所のMCP活用事例｜書面検索・案件管理・ナレッジ横断で正答率を上げる",Know,法律事務所,業種別事例,C,低,高,7500,3,"50,89,7",https://japan-ai.co.jp/media/6154/
+59,E_業種別,人材 派遣 AI 活用,"人材紹介 AI 効率化,マッチング AI","人材・派遣業のMCP活用事例｜求人×求職者マッチングと日次レポートの自動化",Know,人材会社,業種別事例,C,低,高,7500,3,"41,44,7",https://seisei-ai.jp/posts/mcp-use-cases-examples
+60,E_業種別,教育 スクール AI 活用,"教材作成 AI,スクール 運営 効率化","教育・スクール事業のMCP活用事例｜受講管理・教材作成・保護者連絡の効率化",Know,教育事業者,業種別事例,C,低,中,7000,3,"7,66,68",https://seisei-ai.jp/posts/mcp-use-cases-examples
+61,E_業種別,飲食 店舗 AI 活用,"店舗 売上分析 AI,口コミ返信 AI","飲食・店舗ビジネスのMCP活用事例｜売上分析・シフト・口コミ返信の自動化",Know,店舗経営者,業種別事例,C,低,中,7000,3,"7,66,36",https://seisei-ai.jp/posts/mcp-use-cases-examples
+62,E_業種別,自治体 公共 AI 活用,"行政 AI 活用,公共 調達 AI 要件","自治体・公共分野のMCP活用事例｜文書作成・照会対応と調達要件の考え方",Know,自治体職員,業種別事例,C,低,中,8000,3,"89,88,7",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+63,F_ツール別,Google Analytics MCP,"GA4 MCP,アクセス解析 AI 自動化","Google Analytics（GA4）MCPの使い方｜設定手順とすぐ使える分析プロンプト20",Do,Web/マーケ担当,ツール解説,B,中,高,9000,1,"64,32,44",https://www.jicoo.com/magazine/blog/google-analytics-mcp-usecases-benefits
+64,F_ツール別,Search Console MCP,"サーチコンソール MCP,GSC MCP","Search Console MCPの使い方｜クエリ分析・順位変動監視をAIに任せる手順",Do,SEO担当,ツール解説,B,中,高,8500,1,"63,32,35",https://bunkyudo.co.jp/mcp-searchconsole/
+65,F_ツール別,Google Ads MCP,"Google 広告 MCP,広告 AI 分析","Google Ads MCPの使い方｜公式MCPサーバーでキャンペーン分析を自然言語化",Do,広告運用者,ツール解説,B,中,高,8500,1,"33,63,31",https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server
+66,F_ツール別,スプレッドシート MCP,"Google Sheets MCP,表計算 AI 自動化","GoogleスプレッドシートMCPの使い方｜集計・整形・レポート化を丸ごと任せる",Do,全部門,ツール解説,B,中,中,7500,1,"76,44,67",https://weel.co.jp/media/mcp-case/
+67,F_ツール別,Google Drive MCP,"Googleドライブ AI 検索,社内資料 AI","Google Drive MCPの使い方｜社内資料をAIの知識源にする手順と権限設計",Do,情シス,ツール解説,B,中,中,7500,2,"50,87,89",https://weel.co.jp/media/mcp-case/
+68,F_ツール別,Gmail MCP,"メール 自動化 AI,返信 ドラフト AI","Gmail MCPの使い方｜メール要約・返信ドラフト・案件別整理の自動化",Do,営業/CS,ツール解説,B,中,中,7500,2,"38,40,69",https://japan-ai.co.jp/media/6154/
+69,F_ツール別,Googleカレンダー MCP,"日程調整 AI 自動化","GoogleカレンダーMCPの使い方｜日程調整・会議準備・議事録連携まで",Do,全部門,ツール解説,B,低,中,7000,2,"49,68,66",https://weel.co.jp/media/mcp-case/
+70,F_ツール別,Notion MCP,"Notion AI 連携,Notion 自動更新","Notion MCPの使い方｜DB検索・議事録蓄積・タスク自動更新の実践例",Do,全部門,ツール解説,B,中,中,8000,1,"49,50,46",https://qiita.com/hikariclaude01/items/437c363cc90e98396e1a
+71,F_ツール別,Slack MCP,"Slack AI 連携,Slack 過去ログ 検索","Slack MCPの使い方｜過去ログ検索・要約・通知ワークフローの作り方",Do,全部門,ツール解説,B,中,中,8000,1,"34,46,50",https://qiita.com/AppTime-wada/items/492acc8edba2d3cf9ff5
+72,F_ツール別,GitHub MCP,"GitHub AI 連携,PR レビュー 自動化","GitHub MCPの使い方｜Issue・PR・レビューをAIエージェントに任せる構成例",Do,開発者,ツール解説,B,中,低,8000,2,"46,22,25",https://qiita.com/AppTime-wada/items/492acc8edba2d3cf9ff5
+73,F_ツール別,kintone MCP,"kintone AI 連携,kintone 自動化","kintone MCPの使い方｜3つの選択肢を比較し顧客登録・レポートを自動化",Do,kintone利用企業,ツール解説,C,低,高,8500,1,"18,74,51",https://jp.cdata.com/blog/kintone-mcp-server-overview
+74,F_ツール別,Salesforce MCP,"HubSpot MCP,CRM AI 連携","Salesforce／HubSpot MCPの使い方｜商談分析と提案書生成を会話で完結させる",Do,営業/情シス,ツール解説,B,中,高,8500,2,"38,39,73",https://jp.cdata.com/drivers/salesforce/mcp/
+75,F_ツール別,Figma MCP,"Figma AI コード生成,デザイン 実装 自動化","Figma MCPの使い方｜デザインからコード生成・実装差分チェックまで",Do,デザイナー/開発,ツール解説,B,中,低,7000,3,"46,72,25",https://qiita.com/AppTime-wada/items/492acc8edba2d3cf9ff5
+76,F_ツール別,filesystem MCP Excel,"ローカルファイル AI 読み込み,Excel MCP","ローカルファイル／Excel MCPの使い方｜社内フォルダとExcelをAIに読ませる安全な設定",Do,全部門,ツール解説,B,中,中,7500,2,"66,87,89",https://zenn.dev/rescuenow/articles/2bd9d3a7bca510
+77,G_開発,MCPサーバー 自作 Python,"MCP 開発 Python SDK,FastMCP","MCPサーバーの自作入門（Python編）｜30分で動く最小実装と公開手順",Do,開発者,実装チュートリアル,B,中,中,9000,2,"78,79,84",https://zenn.dev/zaki_yama/articles/mcp-server-getting-started
+78,G_開発,MCPサーバー 自作 TypeScript,"MCP TypeScript SDK,MCP 開発 Node","MCPサーバーの自作入門（TypeScript編）｜SDK構成とツール定義の書き方",Do,開発者,実装チュートリアル,B,中,中,9000,2,"77,79,84",https://start-link.jp/hubspot-ai/ai/mcp-integration/mcp-server-development-guide
+79,G_開発,MCP ツール設計 ベストプラクティス,"MCP ツール 説明文,MCP 引数 設計","MCPツール設計のベストプラクティス｜AIが正しく呼べるツール名・説明文・引数の作り方",Do,開発者,設計指針,C,低,中,8000,2,"77,78,83",https://start-link.jp/hubspot-ai/ai/mcp-integration/mcp-server-development-guide
+80,G_開発,社内システム MCP化,"社内API MCP,レガシー AI 連携","社内API・DBをMCP化する手順｜レガシー資産をAIから使えるようにする設計指針",Do,情シス/SIer,設計指針,C,低,高,9500,2,"77,81,96",https://fullfront.co.jp/blog/technology-development/api-technology-development/mcp-server-implementation-guide/
+81,G_開発,MCP OAuth 認証,"MCP 認可,MCP ユーザー権限","MCPの認証・認可実装ガイド｜OAuth対応とユーザー権限連動の実装パターン",Do,開発/情シス,実装ガイド,C,低,高,9000,3,"87,80,85",https://blog.flatt.tech/entry/mcp_security_second
+82,G_開発,MCPサーバー デプロイ,"MCP ホスティング,MCP 社内配布","MCPサーバーのデプロイ・ホスティング比較｜社内配布とリモート公開のやり方",Do,開発/情シス,比較,C,低,中,8000,3,"20,80,81",https://fullfront.co.jp/blog/technology-development/api-technology-development/mcp-server-implementation-guide/
+83,G_開発,MCP トークン コスト,"MCP コンテキスト 圧迫,ツール定義 肥大","MCPのトークン消費とコスト最適化｜ツール定義肥大とコンテキスト圧迫を防ぐ7手法",Do,開発/コスト管理,最適化,C,低,中,7500,3,"79,94,30",https://qiita.com/ssc-yshikeda/items/d946d6576f8de60fa81f
+84,G_開発,MCP Inspector デバッグ,"MCP テスト,MCP 検証 方法","MCPのテスト・デバッグ実践｜MCP Inspectorでツール呼び出しを検証する",Do,開発者,ハウツー,C,低,低,7000,3,"30,77,78",https://knightli.com/ja/2026/07/08/mcp-tool-call-failure-troubleshooting-faq/
+85,H_セキュリティ,MCP セキュリティ,"MCP リスク,MCP 脆弱性,MCP 安全性","MCPのセキュリティリスクと対策完全ガイド2026｜主要脆弱性と実務対応【ピラー】",Know,情シス/決裁者,ピラー解説,B,高,高,12000,1,"86,87,88,89",https://jp.cdata.com/blog/is-mcp-secure
+86,H_セキュリティ,MCP プロンプトインジェクション,"ツール ポイズニング,間接的 プロンプトインジェクション","MCPのプロンプトインジェクション対策｜ツール説明文・取得コンテンツ経由の攻撃を防ぐ",Know/Do,情シス/開発,解説,C,中,高,8500,1,"85,87,79",https://blog.flatt.tech/entry/mcp_security_second
+87,H_セキュリティ,MCP 権限設計 最小権限,"MCP RBAC,MCP 読み取り専用","MCPの権限設計｜最小権限・RBAC・読み取り専用運用の実務パターン",Do,情シス,実務ガイド,C,低,高,8000,1,"85,81,67",https://zenn.dev/sun_asterisk/articles/mcp_security_risk
+88,H_セキュリティ,MCP 導入 チェックリスト,"MCP 監査,MCP 承認プロセス","MCP導入前チェックリスト25項目｜提供元・権限・認証・ログ・遮断手段の確認方法（DL資料つき）",Commercial,情シス/決裁者,チェックリスト,B,中,高,8000,1,"85,90,100",https://jp.cdata.com/blog/mitigate-mcp-server-vulnerabilities
+89,H_セキュリティ,MCP 個人情報 情報漏洩,"MCP 個人情報保護法,MCP 法務 確認","MCPと情報漏えい・個人情報保護｜社外SaaS接続時に法務が確認すべき論点",Know,法務/情シス,解説,C,低,高,8000,2,"85,87,90",https://xtech.nikkei.com/atcl/nxt/column/18/03412/112600005/
+90,H_セキュリティ,AI 社内ガイドライン MCP,"生成AI 利用規程 雛形,MCP 社内ルール","MCP利用の社内ガイドライン雛形｜そのまま使える規程テンプレートを無料配布",Commercial,情シス/人事/法務,テンプレ配布,C,低,高,7500,1,"88,85,100",https://squadbeyond.com/blog/mcp_security/
+91,I_比較,MCP API 違い,"MCP API 連携 どっち,MCP 既存API","MCPとAPI連携の違い｜どちらを使うべきか判断基準を業務シーン別に整理",Know/Commercial,情シス/企画,比較,B,中,中,7500,1,"92,93,1",https://www.c-sidepro.com/blog/column/6186/
+92,I_比較,MCP Function Calling 違い,"Function Calling MCP 比較","MCPとFunction Callingの違いと使い分け｜競合ではなく補完関係を図解",Know,開発者,比較,B,中,低,7000,1,"91,4,77",https://qiita.com/ssc-yshikeda/items/d946d6576f8de60fa81f
+93,I_比較,MCP RPA iPaaS 比較,"MCP Zapier n8n 違い,自動化ツール 比較","MCP vs RPA vs iPaaS（Zapier・n8n・Make）｜自動化手段の選び方を7軸で比較",Commercial,情シス/業務改善担当,比較,B,中,高,9000,1,"91,94,96",https://qiita.com/AI_Beginner_Note/items/2d551868e13b25248cf2
+94,I_比較,MCP 導入 費用,"MCP コスト,MCP 開発 見積","MCP導入の費用相場2026｜内製・外注・ツール利用の3パターンを金額で比較",Commercial,決裁者,費用解説,B,中,高,8500,1,"96,80,83",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+95,I_比較,MCP 失敗,"MCP 使われない,AI 導入 失敗","MCP導入の失敗パターン7つ｜「入れたけど使われない」を防ぐ組織側の準備",Know/Commercial,決裁者/推進担当,オピニオン,C,低,高,8000,1,"99,100,96",https://uravation.com/media/mcp-ai-integration-guide/
+96,I_比較,MCP 導入支援 会社,"MCP 開発 依頼,MCP コンサル","MCP導入支援・開発会社の選び方｜依頼前に確認する12の質問【CVハブ】",Commercial,決裁者,CV記事,C,低,最高,8000,1,"94,100,80",https://uravation.com/media/mcp-model-context-protocol-business-guide-2026/
+97,J_動向,MCP 最新動向 2026,"MCP アップデート,MCP 仕様 変更","MCP最新動向2026｜仕様アップデート・主要ベンダー対応・普及状況まとめ（毎月更新）",Know,全読者,ニュースまとめ,B,中,中,9000,1,"1,10,98",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+98,J_動向,MCP 市場 統計 データ,"MCP 導入率,MCP 普及状況","数字で見るMCP｜SDKダウンロード数・公開サーバー数・企業導入率の最新統計まとめ",Know,決裁者/企画,データまとめ,C,低,中,7000,2,"97,7,9",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
+99,J_動向,AIエージェント 業務設計,"AI 前提 業務プロセス,AI 組織 設計","AIエージェント前提の業務設計論｜MCPを入れる前に見直すべき業務プロセス3層",Know,経営/推進担当,オピニオン,B,中,高,9000,2,"95,100,7",https://qiita.com/ksonoda/items/1c681a563a95a93975ff
+100,J_動向,MCP 導入 ロードマップ,"MCP PoC 進め方,MCP 全社展開","MCP導入90日ロードマップ｜PoCから全社展開までのフェーズ別タスク表（DL資料つき）【CVハブ】",Commercial,決裁者/推進担当,ロードマップ,C,低,最高,10000,1,"96,88,95",https://jp.cdata.com/blog/enterprise-mcp-use-cases-roadmap-2026
